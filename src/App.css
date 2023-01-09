@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: 'this_is_font_name';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Outline.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+/*.headerid {*/
+/*  text-align: center;*/
+/*  font-size: 10000px;*/
+/*  font-family: this_is_font_name;*/
+/*}*/
+
+
+.ck {
+  min-height: 1000px;
+}
